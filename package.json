@@ -1,0 +1,20 @@
+{
+  "name": "yarn-run",
+  "version": "0.0.1",
+  "description": "Testing Yarn run",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "example.com/git/yarn-run"
+  },
+  "author": "Otto Urpelainen",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  },
+  "volta": {
+    "node": "12.13.1",
+    "yarn": "1.21.0"
+  }
+}
